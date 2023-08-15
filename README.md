@@ -2,7 +2,7 @@
 
 ## 程序开发工程师 — Matin
 
-热爱技术，综合各要素Social etiquette，更进一步。
+热爱技术，Salute!
 
 
 
