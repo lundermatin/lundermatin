@@ -4,6 +4,7 @@
 
 热爱技术，Salute!
 
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzRvWDUzMm5PdzQ0d3lCcm1zanZvYmF6R0tMS2dLNzByTGRaWg==#langgenius/dify&Date" frameBorder="0"></iframe>
 
 
 
