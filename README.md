@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 程序开发工程师 — Matin
+## Software Development Engineer — Matin
 
-热爱技术，Salute!
+Passionate about technology, Salute!
 
 ## Star History
 
