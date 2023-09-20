@@ -2,7 +2,11 @@
 
 ## Software Development Engineer — Matin
 
-Passionate about technology, Salute!
+Salute!
+
+## Stack
+
+Python R Julia
 
 ## Star History
 
