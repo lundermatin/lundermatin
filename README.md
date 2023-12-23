@@ -1,9 +1,9 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-# Software Development Engineer — Matin
+# Immortality
 
 Salute!
 
 # Stack
-## full stack
+
 Python R Julia
