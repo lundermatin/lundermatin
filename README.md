@@ -6,4 +6,4 @@ Salute!
 
 # Stack
 
-Python R Julia
+Python R
